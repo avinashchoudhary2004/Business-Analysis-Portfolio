@@ -11,10 +11,9 @@ Insights and recommendations are provided through dashboards for the latest year
 * **Customer Analytics** – Customer growth, order distribution, and contribution to overall sales.   
 
 <br> 
-The interactive Tableau dashboard can be accessed [here]. 
+The interactive Tableau dashboard can be accessed <a href="https://public.tableau.com/views/SalesCustomerDashboard_17566716653650/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">here</a>. 
 <br> <br>
-The detailed requirements for this project are documented in [here].
-
+The detailed requirements for this project are documented in <a href="https://github.com/avinashchoudhary2004/Business-Analysis-Portfolio/blob/71651537162df1cb04d93f0bff4fd9052df3cca4/Advanced%20Tableau%20Dashboards%20for%20Sales%20%26%20Customer%20Analytics/Project%20Requirements%20Document.pdf" target="_blank">here</a>. 
 
 ---
 
