@@ -2,7 +2,7 @@
 
 Hello! I'm **Avinash Choudhary**, a **Mechanical Engineering Graduate** from **IIT Goa** with a strong passion for **Business Analysis, Data Analytics, and Problem-Solving**.  
 
-This portfolio showcases my work combining **data analysis, visualization, SQL, and research** to extract actionable insights and support data-driven decisions.
+This portfolio highlights my projects, professional experience, resume, and certifications, providing a comprehensive view of my skills and journey.
 
 ---
 
