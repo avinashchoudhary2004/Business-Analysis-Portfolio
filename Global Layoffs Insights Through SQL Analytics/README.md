@@ -1,7 +1,7 @@
 # Advanced SQL Data Cleaning & Insights on Global Layoffs
 
 ## Project Background
-This project was designed to **analyze and extract insights from global layoff data** using SQL.  
+This project was designed to **analyze and extract insights from global layoff data** (March 2020 – August 2025) using SQL.
 
 The end-to-end workflow covers importing raw data, cleaning and standardizing messy fields, conducting exploratory data analysis (EDA), and finally extracting advanced insights with analytical SQL queries.  
 
