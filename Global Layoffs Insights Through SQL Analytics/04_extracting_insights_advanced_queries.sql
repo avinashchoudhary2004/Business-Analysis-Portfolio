@@ -57,9 +57,9 @@ with stage_wise_layoffs as(
 )
 select stage, 
 	`year`,
-	`total laid off` as max_laid_off
+	`total laid off`
 from ranked_stage_wise_layoffs
-where ranking = 1
+order by stage, `year`
 ;
 #Layoffs peaked in different waves: late-stage startups were hit hardest in 2020, early/mid-stage firms in 2022, and mature/acquired/IPO companies in 2023.
 
@@ -92,7 +92,10 @@ WITH max_company_layoffs AS (
 )
 select 
     percentage_category,
-    count(company) as company_count
+    100*count(company)/(
+		select count(distinct company) 
+		from layoffs_staging
+	) as company_count
 from distribution_table
 group by percentage_category
 order by percentage_category
