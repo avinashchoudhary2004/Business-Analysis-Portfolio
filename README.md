@@ -1,4 +1,4 @@
-# Welcome to Avinash Choudhary's Portfolio 👋
+# Welcome to my Portfolio
 
 Hello! I'm **Avinash Choudhary**, a **Mechanical Engineering Graduate** from **IIT Goa** with a strong passion for **Business Analysis, Data Analytics, and Problem-Solving**.  
 
