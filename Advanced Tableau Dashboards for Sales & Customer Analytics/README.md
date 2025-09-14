@@ -74,8 +74,7 @@ Despite these gains, customer growth remained stagnant at just 0.5% YoY, and ove
 ## Recommendations
 * **Boost Customer Acquisition** – Launch referral programs, targeted marketing, and regional campaigns to address stagnation (<1% YoY growth).  
 * **Optimize Product Portfolio** – Phase out or reprice unprofitable machine products (Lexmark MX611dhe, Cubify Cubex) while expanding profitable categories like Phones and Copiers.  
-* **Replicate Regional Success** – Apply Germany’s high-margin sales strategy in weaker markets like Italy to balance performance.    
-* **Diversify Sales Mix** – Reduce reliance on Chairs and Phones (31% of sales) by expanding other categories, ensuring more balanced revenue streams.  
+* **Replicate Regional Success** – Apply Germany’s high-margin sales strategy in weaker markets like Italy to balance performance.     
 * **Weekly KPI Monitoring** – Use weekly trends to rapidly detect underperformance, enabling proactive interventions.  
 
 ---
