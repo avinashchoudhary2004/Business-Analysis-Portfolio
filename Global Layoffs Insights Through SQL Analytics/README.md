@@ -1,5 +1,8 @@
 # Advanced SQL Data Cleaning & Insights on Global Layoffs
 
+## Goal 
+To analyze global layoff trends for different company stages and identify industry segments, company stages, and time periods most impacted, helping business leaders and investors assess employment risks, resource allocation, and investment decisions.
+
 ## Project Background
 This project was designed to **analyze and extract insights from global layoff data** (March 2020 – August 2025) using SQL.
 
